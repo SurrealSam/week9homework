@@ -203,7 +203,7 @@ function generateHTML(answers, response) {
                 <br>
                 <div class="row d-flex justify-content-center">
                     <div class="card" style="width: 40rem;">
-                        <img class="card-img-top" src=${response.data.avatar_url} alt="Card image cap">
+                        <img class="card-img-top" src="${response.data.avatar_url}" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">About Me</h5>
                             <p class="card-text">Location: ${response.data.location}</p>
