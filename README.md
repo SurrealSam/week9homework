@@ -2,6 +2,7 @@
 
 ## Steps
 
+0) Make sure output directory has no files in it before
 1) Run npm install
 2) Run node index.js
 3) Check output directory for PDF
